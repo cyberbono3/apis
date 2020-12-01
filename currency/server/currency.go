@@ -6,7 +6,7 @@ import (
 	"time"
 
 	
-	protos "github.com/cyberbono3/go-microservices/currency/protos/currency"
+	protos "github.com/cyberbono3/apis/currency/protos/currency"
 )
 
 // Currency is a gRPC server it implements the methods defined by the CurrencyServer interface

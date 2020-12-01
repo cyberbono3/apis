@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/cyberbono3/go-microservices/product-api/data"
+	"github.com/cyberbono3/apis/product-api/data"
 )
 
 // swagger:route PUT /products products updateProduct

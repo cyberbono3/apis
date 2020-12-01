@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/cyberbono3/go-microservices/product-api/data"
+	"github.com/cyberbono3/apis/product-api/data"
 )
 
 // MiddlewareValidateProduct validates the product in the request and calls next if ok

@@ -5,8 +5,8 @@ import (
 	"os"
 	"log"
 
-	protos "github.com/cyberbono3/go-microservices/currency/protos/currency"
-	"github.com/cyberbono3/go-microservices/currency/server"
+	protos "github.com/cyberbono3/apis/currency/protos/currency"
+	"github.com/cyberbono3/apis/currency/server"
 	"google.golang.org/grpc"
 	//"google.golang.org/grpc/reflection"
 )

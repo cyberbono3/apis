@@ -15,7 +15,7 @@
 // swagger:meta
 package handlers
 
-import "github.com/cyberbono3/go-microservices/product-api/data"
+import "github.com/cyberbono3/apis/product-api/data"
 
 //
 // NOTE: Types defined here are purely for documentation purposes

@@ -9,14 +9,14 @@ import (
 	"time"
 
 	"github.com/go-openapi/runtime/middleware"
-	"github.com/cyberbono3/go-microservices/product-api/data"
-	"github.com/cyberbono3/go-microservices/product-api/handlers"
-	"github.com/cyberbono3/go-microservices/product-api/env"
+	"github.com/cyberbono3/apis/product-api/data"
+	"github.com/cyberbono3/apis/product-api/handlers"
+	"github.com/cyberbono3/apis/product-api/env"
 	"github.com/gorilla/mux"
 	"google.golang.org/grpc"
 
 	gohandlers "github.com/gorilla/handlers"
-	protos "github.com/cyberbono3/go-microservices/currency/protos/currency"
+	protos "github.com/cyberbono3/apis/currency/protos/currency"
 
 )
 

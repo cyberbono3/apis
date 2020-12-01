@@ -6,8 +6,8 @@ import (
 	"testing"
 	"fmt"
 	
-	"github.com/cyberbono3/go-microservices/product-api/sdk/client"
-	"github.com/cyberbono3/go-microservices/product-api/sdk/client/products"
+	"github.com/cyberbono3/apis/product-api/sdk/client"
+	"github.com/cyberbono3/apis/product-api/sdk/client/products"
 )
 
 func TestClient(t *testing.T)  {

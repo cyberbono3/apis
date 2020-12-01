@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/cyberbono3/go-microservices/product-api/data"
-	protos "github.com/cyberbono3/go-microservices/currency/protos/currency"
+	"github.com/cyberbono3/apis/product-api/data"
+	protos "github.com/cyberbono3/apis/currency/protos/currency"
 )
 
 // KeyProduct is a key used for the Product object in the context
